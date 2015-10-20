@@ -1,19 +1,29 @@
+header {
+  background-color:#DCE0D9;
+  width: 100%;
 
-
-.index {
-  background: url ("img/bgpattern.png");
+  padding-top:0px;
+  padding-bottom:0px;
+  padding: 0px;
+  margin: 0px;
+  z-index: 1;
 }
 
-.banner {
+#banner {
   background-color: #FFFFFF;
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
-.banner h1 {
-  color:#BC261D;
+h4 {
+  color: black;
   font-size: 32px;
   text-align: center;
   font-family: 'Open Sans', Arial, sans-serif;
   font-weight:100;
+}
+
+footer {
+  background-color: #FFFFFF;
+  color: black;
 }

@@ -18,66 +18,65 @@
 /*******************************************/
 
 header {
-  background-color:#DCE0D9;
-  width: 100%;
+    background-color:#DCE0D9;
+    width: 100%;
 
-  padding-top:0px;
-  padding-bottom:0px;
-  padding: 0px;
-  margin: 0px;
-  z-index: 1;
-}
+    padding-top:0px;
+    padding-bottom:0px;
+    padding: 0px;
+    margin: 0px;
+    z-index: 1;
+  }
 
 body {
+    background-image: url("/img/bgpattern.png");
+    color: #DCE0D9;
+    font-size: 14px;
+    line-height: 2;
+    font-family: 'Open Sans', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    z-index: 0;
+   }
+
+   h1 {
+     color: #BC261D;
+     font-size: 32px;
+     line-height: 2;
+     font-family: 'Open Sans', Arial, sans-serif;
+     font-weight: 100;
+     text-align: center;
+   }
+
+   h2 {
+     color: #DCE0D9;
+     font-size: 22px;
+     line-height: 4;
+     font-family: 'Open Sans', Arial, sans-serif;
+     font-weight: 300;
+   }
+
+   h3 {
      color: #DCE0D9;
      font-size: 14px;
      line-height: 2;
      font-family: 'Open Sans', Arial, sans-serif;
-     background:#FFFFFF;
-     padding: 0px;
-     margin: 0px;
-     z-index: 0;
    }
 
-   h1 {
-     color:#BC261D;
-     font-size: 32px;
-     text-align: center;
-     font-family: 'Open Sans', Arial, sans-serif;
-     font-weight:100;
-   }
+   a:link,a:visited{
+    color:#DCE0D9;
+  }
 
-   h2 {
-     color:#DCE0D9;
-     font-size: 18px;
-     text-align: left;
-     font-family: 'Open Sans', Arial, sans-serif;
-     font-weight:500;
-   }
+  a:hover{
+    color:#FFFFFF;
+  }
 
-#container {
-  width: 100%;
-  height: 100%;
-}
+  p{
+    line-height:1.3em;
+  }
 
-section{
-  width:100%;
-  height:auto;
-  position:absolute;
-}
-
-a:link,a:visited{
-  color:#DCE0D9;
-}
-
-a:hover{
-  color:#FFFFFF;
-}
-
-p{
-  line-height:1.3em;
-}
-
-button{
-
-}
+  footer{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+  }
