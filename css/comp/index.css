@@ -1,0 +1,19 @@
+
+
+.index {
+  background: url ("img/bgpattern.png");
+}
+
+.banner {
+  background-color: #FFFFFF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.banner h1 {
+  color:#BC261D;
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-weight:100;
+}
