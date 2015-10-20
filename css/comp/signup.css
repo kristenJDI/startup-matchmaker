@@ -1,16 +1,20 @@
-body, html {
 
+img {
+  border-radius: 50%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  height: 300px;
+  margin-left: 10%;
 }
-#avatar {
-    image border-radius: 50px;
 
-}
-
-#choose file {
+#choosefile {
   width: 100%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
   color: black;
   background-color: #DCE0D9;
-
+  margin-bottom: 20px;
 }
 
 #form {
@@ -29,8 +33,9 @@ form input {
     margin-bottom: 20px;
 }
 
-.create user {
+#createuser {
     background-color: #BC261D;
+    text-align: center;
     width: 100%;
     font-size: 20px;
     padding: 20px;
