@@ -17,16 +17,43 @@
 /* BASE STYLES
 /*******************************************/
 
-body {
-  color: white ;
-  font-size: 11px;
-  line-height: 1.4;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+header {
+  background-color:#DCE0D9;
   width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
+
+  padding-top:0px;
+  padding-bottom:0px;
+  padding: 0px;
+  margin: 0px;
+  z-index: 1;
 }
+
+body {
+     color: #DCE0D9;
+     font-size: 14px;
+     line-height: 2;
+     font-family: 'Open Sans', Arial, sans-serif;
+     background:#FFFFFF;
+     padding: 0px;
+     margin: 0px;
+     z-index: 0;
+   }
+
+   h1 {
+     color:#BC261D;
+     font-size: 32px;
+     text-align: center;
+     font-family: 'Open Sans', Arial, sans-serif;
+     font-weight:100;
+   }
+
+   h2 {
+     color:#DCE0D9;
+     font-size: 18px;
+     text-align: left;
+     font-family: 'Open Sans', Arial, sans-serif;
+     font-weight:500;
+   }
 
 #container {
   width: 100%;
