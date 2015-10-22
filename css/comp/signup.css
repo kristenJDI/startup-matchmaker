@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 img {
   border-radius: 50%;
@@ -16,6 +17,23 @@ img {
   color: black;
   background-color: #DCE0D9;
   margin-bottom: 20px;
+=======
+body {
+  
+
+}
+
+h1 {
+
+
+}
+
+header {
+
+=======
+body, html {
+
+>>>>>>> master
 }
 
 #form {
@@ -28,6 +46,7 @@ img {
 
 form input {
     width: 100%;
+<<<<<<< HEAD
     font-size:20px;
     padding: 20px;
     border-radius: 10px;
@@ -60,6 +79,15 @@ h1 {
 
 header {
 
+
+>>>>>>> master
+=======
+    font-size:24px;
+}
+
+p h3 a {
+      color:#BC261D;
+>>>>>>> katicesareo/master
 
 >>>>>>> master
 }
