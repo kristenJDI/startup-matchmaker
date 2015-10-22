@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 .index {
@@ -5,15 +6,31 @@
 }
 
 .banner {
+=======
+#banner {
+>>>>>>> katicesareo/master
   background-color: #FFFFFF;
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
+<<<<<<< HEAD
 .banner h1 {
   color:#BC261D;
+=======
+h4 {
+  color: black;
+>>>>>>> katicesareo/master
   font-size: 32px;
   text-align: center;
   font-family: 'Open Sans', Arial, sans-serif;
   font-weight:100;
 }
+<<<<<<< HEAD
+=======
+
+footer #index {
+  background-color: #FFFFFF;
+  color: black;
+}
+>>>>>>> katicesareo/master
